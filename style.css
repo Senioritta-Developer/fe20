@@ -13,3 +13,8 @@ body{
     align-items: center;
    margin: 20px;
 }
+button{
+    padding: 10px 40px;
+    background-color: aqua;
+    color: black;
+}
